@@ -1,4 +1,3 @@
-# About-Me-
 # Hello, I'm Enock Tanaka Mukwindidza! 👋
 
 ## About Me
