@@ -11,10 +11,10 @@ I am a student at WeThinkcode_, deeply engaged in Software Development. My goal 
 ⚡ Fun fact: Despite being an introvert, I enjoy engaging in deep technical discussions and am very approachable.
 
 ## 🛠️ Skills and Tools:
-- Machine Learning Frameworks (Scikit-learn, TensorFlow)
-- Data Analysis and Processing (Python, NumPy, Pandas)
-- Data Visualization (Matplotlib, Seaborn)
-- Cloud Computing (AWS, Azure)
+- **Programming Languages**: Python, Java
+- **Data Analysis and Processing**: Python, NumPy, Pandas
+- **Cloud Computing**: AWS
+- **Mobile Development**: Flutter
 
 ## 📫 How to Reach Me:
 - Email: mukwindidza04@gmail.com
