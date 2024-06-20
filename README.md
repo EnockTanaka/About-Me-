@@ -12,9 +12,9 @@ I am a student at WeThinkcode_, deeply engaged in Software Development. My goal 
 
 ## 🛠️ Skills and Tools:
 - **Programming Languages**: Python, Java
-- **Data Analysis and Processing**: Python, NumPy, Pandas
+- **Data Analysis and Processing**: Python, NumPy, Pandas, MySQL
 - **Cloud Computing**: AWS
-- **Mobile Development**: Flutter
+- **Mobile Development**: React Native
 
 ## 📫 How to Reach Me:
 - Email: mukwindidza04@gmail.com
